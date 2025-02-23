@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! My name is Hadrien!
-
-My research currently focuses on Leadership, Organizational Citizenship Behavior (OCB), Business Ethics, and Individual Differences. Through my research, I aim to promote organizational effectiveness and enhance people's wellbeing within the workplace.
+Hi there! My name is Yinghao! I am an incoming Ph.D. student at Lee Kong Chian School of Business, Singapore Management University (SMU). My research currently focuses on Leadership, Organizational Citizenship Behavior (OCB), Business Ethics, and Individual Differences. Through my research, I aim to promote organizational effectiveness and enhance wellbeing within the workplace.
 
 
 # 📝 Conference Presentation 
