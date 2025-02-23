@@ -39,17 +39,15 @@ My research currently focuses on Leadership, Organizational Citizenship Behavior
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Research Scholarship, Singapore Management University
+- Academic Scholarship, Shandong University
 
 # 📖 Educations
 - *2025.08 - 2030.06*, Ph.D. in Business (Organizational Behavior and Human Resources), Singapore Management University, Singapore
 - *2024.01 - 2025.01*, Master of Science (Managerial Economics), Nanyang Technological University, Singapore
 - *2019.09 - 2023.06*, Bachelor of Management (Accounting) & Bachelor of Economics (Finance), Shandong University, Weihai
  
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.01 - 2022.02*, Investment Banking Intern, GuoYuan Securities Co., Ltd, Hefei
+- *2022.03 - 2022.09*, Risk Management Intern, China Capital Management Co., Ltd , Beijing
+- *2022.01 - 2022.02*, Auditing Intern, Enrst & Young Hua Ming LLP, Beijing
