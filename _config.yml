@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "AAA"
-description              : "Incoming Ph.D. student, SMU"
+title                    : "Yinghao Qi"
+description              : "Incoming Ph.D. in Business (OBHR) student, Lee Kong Chian School of Business"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yinghao Qi"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "SMU"
+  bio              : "50 Stamford Road, Singapore 178899"
   location         : "Singapore"
   employer         :
   pubmed           : 
