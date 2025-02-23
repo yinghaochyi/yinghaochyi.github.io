@@ -43,9 +43,10 @@ My research currently focuses on Leadership, Organizational Citizenship Behavior
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.08 - 2030.06*, Ph.D. in Business (Organizational Behavior and Human Resources), Singapore Management University, Singapore
+- *2024.01 - 2025.01*, Master of Science (Managerial Economics), Nanyang Technological University, Singapore
+- *2019.09 - 2023.06*, Bachelor of Management (Accounting) & Bachelor of Economics (Finance), Shandong University, Weihai
+ 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
