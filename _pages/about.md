@@ -31,7 +31,7 @@ Hi there! My name is Yinghao! I am an incoming Ph.D. student at Lee Kong Chian S
 # 📖 Educations
 - *2025.08 - 2030.06*, Ph.D. in Business (Organizational Behavior and Human Resources), Singapore Management University, Singapore
 - *2024.01 - 2025.01*, Master of Science (Managerial Economics), Nanyang Technological University, Singapore
-- *2019.09 - 2023.06*, Bachelor of Management (Accounting) & Bachelor of Economics (Finance), Shandong University, Weihai
+- *2019.09 - 2023.06*, Bachelor of Management (Accounting) & Bachelor of Economics (Finance), Shandong University, China
  
 # 💻 Internships
 - *2022.01 - 2022.02*, Investment Banking Intern, GuoYuan Securities Co., Ltd, Hefei
