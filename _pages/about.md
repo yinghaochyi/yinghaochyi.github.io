@@ -21,7 +21,7 @@ Hi there! My name is Yinghao! I am a Ph.D. student at Lee Kong Chian School of B
 
 
 # 📝 Conference Presentation 
-- Qi, Y. Blessings or Curses? Double-Edged Sword Effect of Self-Related Leader Humor. Paper accepted and to be presented at the 85th Annual Meeting of Academy of Management, Copenhagen.
+- Qi, Y. Blessings or Curses? Double-Edged Sword Effect of Self-Related Leader Humor. Paper accepted to be presented at the 85th Annual Meeting of Academy of Management, Copenhagen.
 - Lu, J., Qi, Y., Zhang, Z., & Guo, X. Inside- vs. Outside-Based Moral License: An Integrated View on Self-Concepts. Paper presented at the 84th Annual Meeting of Academy of Management, Chicago.
 
 # 🎖 Honors and Awards
