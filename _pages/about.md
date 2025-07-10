@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! My name is Yinghao! I am a Ph.D. student at Lee Kong Chian School of Business, Singapore Management University (SMU). My research currently focuses on Leadership, Organizational Citizenship Behavior (OCB), Business Ethics, and Individual Differences. Through my research, I aim to promote organizational effectiveness and enhance wellbeing within the workplace.
+Welcome, and thank you for visiting my website! My name is Yinghao, and I am currently a Ph.D. student at the Lee Kong Chian School of Business, Singapore Management University (SMU). My research interests lie in the areas of leadership, organizational citizenship behavior (OCB), business ethics, and individual differences. Broadly, I am passionate about advancing organizational effectiveness and fostering well-being in the workplace.
+
+If you have any questions about my research or if there is anything I can helpwith, please feel free to reach out to me via email. I look forward to meaningful conversations and potential collaborations aimed at creating happier and more effective work environments.
 
 
-# 📝 Conference Presentation 
+# 📝 Referred Conference Proceedings 
 - Qi, Y. Blessings or Curses? Double-Edged Sword Effect of Self-Related Leader Humor. Paper accepted to be presented at the 85th Annual Meeting of Academy of Management, Copenhagen.
 - Lu, J., Qi, Y., Zhang, Z., & Guo, X. Inside- vs. Outside-Based Moral License: An Integrated View on Self-Concepts. Paper presented at the 84th Annual Meeting of Academy of Management, Chicago.
 
-# 🎖 Honors and Awards
+# 🎖 Selected Honors and Awards
 - Research Scholarship, Singapore Management University
 - Academic Scholarship, Shandong University
 
