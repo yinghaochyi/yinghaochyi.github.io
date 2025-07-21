@@ -21,7 +21,7 @@ Welcome, and thank you for visiting my website!
 
 My name is Yinghao, and I am currently a Ph.D. student at the Lee Kong Chian School of Business, Singapore Management University (SMU). My research interests lie in the areas of Leadership, Organizational Citizenship Behavior, Business Ethics, and Individual Differences. Broadly, I am passionate about advancing organizational effectiveness and fostering well-being in the workplace.
 
-If you have any questions about my research or if there is anything I can helpwith, please feel free to reach out to me via my institutional email. I look forward to meaningful conversations and potential collaborations aimed at creating happier and more effective work environments.
+If you have any questions about my research or if there is anything I can help with, please feel free to reach out to me via my institutional email. I look forward to meaningful conversations and potential collaborations aimed at creating happier and more effective work environments.
 
 # Education
 - *2025.08 - 2030.06*, Ph.D. in Business (Organizational Behavior and Human Resources), Singapore Management University, Singapore
