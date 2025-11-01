@@ -37,6 +37,6 @@ If you have any questions about my research or if there is anything I can help w
 - Academic Scholarship, Shandong University
  
 # Industry Experiences
-- *2022.01 - 2022.02*, Investment Banking Intern, GuoYuan Securities Co., Ltd, Hefei
+- *2022.11 - 2023.03*, Investment Banking Intern, GuoYuan Securities Co., Ltd, Hefei
 - *2022.03 - 2022.09*, Risk Management Intern, China Capital Management Co., Ltd , Beijing
 - *2022.01 - 2022.02*, Auditing Intern, Enrst & Young Hua Ming LLP, Beijing
