@@ -26,7 +26,7 @@ If you have any questions about my research or if there is anything I can help w
 # Education
 - *2025.08 - 2030.06*, Ph.D. in Business (Organizational Behavior and Human Resources), Singapore Management University, Singapore
 - *2024.01 - 2025.01*, Master of Science (Managerial Economics), Nanyang Technological University, Singapore
-- *2019.09 - 2023.06*, Bachelor of Management (Accounting) & Bachelor of Economics (Finance), Shandong University, China
+- *2019.09 - 2023.06*, Bachelor of Management (Accounting) & Bachelor of Economics (Finance), Shandong University, Weihai, China
 
 # Referred Conference Proceedings 
 - Qi, Y. Blessings or Curses? Double-Edged Sword Effect of Self-Related Leader Humor. Paper accepted to be presented at the 85th Annual Meeting of Academy of Management, Copenhagen.
